@@ -1,0 +1,71 @@
+[
+    {
+        "id" : 1,
+        "name" : "Orange",
+        "price": 222,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci.",
+        "featured" : true
+
+    },
+    {
+        "id" : 2,
+        "name" : "Chocolate",
+        "price": 45677,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci.",
+        "featured" : true
+
+    },
+    {
+        "id" : 3,
+        "name" : "Apple",
+        "price": 55885,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci.",
+        "featured" : true
+
+    },
+    {
+        "id" : 4,
+        "name" : "Pawpaw",
+        "price": 577585,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci.",
+        "featured" : true
+
+    },
+    {
+        "id" : 5,
+        "name" : "Pire",
+        "price": 57578,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci."
+        
+
+    },
+    {
+        "id" : 6,
+        "name" : "Banana",
+        "price": 886969,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci."
+       
+
+    },
+    {
+        "id" : 7,
+        "name" : "Strawberry",
+        "price": 588599,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci."
+        
+
+    },
+    {
+        "id" : 8,
+        "name" : "Mango",
+        "price": 4484,
+        "desc" : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Quidem dignissimos, voluptatibus incidunt cum placeat numquam? A sunt ut ipsam adipisci."
+        
+
+    }
+    
+]
+
+
+
+ 
